@@ -1,0 +1,13 @@
+{
+  "name": "chat-example",
+  "version": "0.0.0",
+  "description": "new socket.io implementation in chat app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.4.4",
+    "nodemon": "*",
+    "socket.io": "~1.0.6"
+  },
+  "author": "Tomaz Bracic",
+  "license": "BSD"
+}
